@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+openai
+langchain
+langchain_openai
+langchain_community
+chromadb
+PyMuPDF
+pytesseract
+Pillow
