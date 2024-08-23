@@ -1,6 +1,6 @@
 # ***RAG Bot with Streamlit and LangChain***
 
-![RAG Bot]([https://your-image-link.com/banner.png](https://miro.medium.com/v2/resize:fit:1400/1*cHlQK5M1GRaeS_A-RbH1hw.jpeg)])  
+![RAG Bot](https://miro.medium.com/v2/resize:fit:1400/1*cHlQK5M1GRaeS_A-RbH1hw.jpeg))  
 *A Retrieval Augmented Generation (RAG) Bot built with Streamlit and LangChain.*
 
 ## **Table of Contents**
